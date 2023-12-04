@@ -1,0 +1,14 @@
+{
+    "name": "friwid/game-videos",
+    "type": "project",
+    "authors": [
+        {
+            "name": "friwid",
+            "email": "50137120+friwid@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "^5.6@dev"
+    }
+}

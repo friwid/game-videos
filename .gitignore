@@ -1,4 +1,4 @@
-/.htaccess
 /.env
 /vendor/
 /composer.lock
+/node_modules/
